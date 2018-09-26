@@ -1,4 +1,4 @@
-# GSoC'17-proposal
+# GSoC'17 Proposal
 Draft proposal for [Google Summer of Code](https://summerofcode.withgoogle.com/) 2017 from Moritz Luca Schmid, proposing for the [GNU Radio](https://www.gnuradio.org/) project "A DAB/DAB+ transceiver app".
 
 The proposal got accepted and the project was realized during summer 2017.
